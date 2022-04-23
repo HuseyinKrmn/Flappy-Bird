@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe.config
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.pdb
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.exe
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.pdb
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.FrmGiris.resources
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.FrmKayitOl.resources
+C:\Users\PC\Desktop\Flappy-Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.FrmOyun.resources
